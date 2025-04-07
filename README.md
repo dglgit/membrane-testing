@@ -7,6 +7,6 @@ Note that trajectory (.dcd) files are omitted because they are too big
 
 Video of the simulation is linked below:
 
-[![](Click here to watch the video)](https://youtu.be/m6CewOsVv3s)
+[![](http://markdown-videos-api.jorgenkh.no/youtube/m6CewOsVv3s)](https://youtu.be/m6CewOsVv3s)
 
 I used phosphatidylcholine as the membrane lipid. 
